@@ -1,0 +1,5 @@
+<%
+	response.sendRedirect("./rest/persona/");
+%>
+
+
